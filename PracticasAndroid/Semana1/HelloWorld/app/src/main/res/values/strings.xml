@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="mi_app">Mi App</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Nulla porta eget lectus vel viverra. Morbi pulvinar malesuada nisi. Donec quam erat,
+        convallis eu fermentum vitae, imperdiet et eros. Aliquam pellentesque tellus malesuada fermentum gravida.
+        Nulla lectus sem, aliquet ut elit sed, fringilla egestas sapien. Duis dui felis, auctor sit amet nunc quis,
+        gravida fermentum massa. Vivamus pulvinar quam massa, id ornare felis rhoncus vitae. Pellentesque at odio
+        vitae massa aliquet consectetur. Proin nisl leo, ullamcorper ac mollis at, dictum nec eros. Phasellus lobortis
+        nulla in mi malesuada, at congue sapien sodales. </string>
+    <string name="nombre">Miguel Ángel</string>
+</resources>
