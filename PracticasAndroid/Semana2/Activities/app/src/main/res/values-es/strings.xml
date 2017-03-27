@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="btnLogin">Iniciar Sesión</string>
+    <string name="editName">Nombre</string>
+    <string name="emptyName">Porfavor agrega tu nombre!!!</string>
+    <string name="textWelcome">Bienvenido %s</string>
+</resources>

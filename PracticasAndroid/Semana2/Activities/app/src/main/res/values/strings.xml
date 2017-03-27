@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="btnLogin">Login</string>
+    <string name="editName">Name</string>
+    <string name="emptyName">Please add your name!!!</string>
+    <string name="textWelcome">Welcome %s</string>
+</resources>
