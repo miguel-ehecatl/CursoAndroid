@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fragmentos</string>
+    <string name="hint">Por favor agrega tu mensaje</string>
+    <string name="sendActivity">Enviar Al Fragmento</string>
+</resources>

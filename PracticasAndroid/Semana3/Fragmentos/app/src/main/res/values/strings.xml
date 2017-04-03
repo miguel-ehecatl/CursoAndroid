@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fragmentos</string>
+    <string name="hint">Please add your message</string>
+    <string name="sendActivity">Send To Fragment</string>
+</resources>
