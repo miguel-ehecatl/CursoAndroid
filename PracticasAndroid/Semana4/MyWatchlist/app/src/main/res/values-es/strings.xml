@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyWatchlist</string>
+    <string name="label_email">Correo</string>
+    <string name="label_password">Contraseña</string>
+    <string name="label_signin">Iniciar sesión</string>
+    <string name="label_signup">Registrarse</string>
+    <string name="label_help">¿Necesitas ayuda?</string>
+</resources>
