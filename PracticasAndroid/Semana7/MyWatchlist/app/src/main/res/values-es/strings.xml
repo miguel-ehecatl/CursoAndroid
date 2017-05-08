@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyWatchlist</string>
+    <string name="label_email">Correo</string>
+    <string name="label_password">Contraseña</string>
+    <string name="label_signin">Iniciar sesión</string>
+    <string name="label_signup">Registrarse</string>
+    <string name="label_help">¿Necesitas ayuda?</string>
+    <string name="label_confirm">Confirmar contraseña</string>
+    <string name="label_pass_indicio">Indicio contraseña</string>
+    <string name="label_requerido">Este campo es requerido</string>
+    <string name="label_nocoincide">Contraseña no coincide</string>
+    <string name="label_exito">Registrado exitosamente</string>
+    <string name="label_error_email">El correo ya existe</string>
+    <string name="label_error_sesion">Correo/contraseña no existen</string>
+    <string name="label_favoritos">Favoritos</string>
+    <string name="label_top_movies">Mejores películas</string>
+    <string name="label_top_series">Mejores series</string>
+    <string name="label_search_movies">Buscar películas</string>
+    <string name="label_search_series">Buscar series</string>
+    <string name="label_sin_resultados">¡No pudimos encontrar nada!</string>
+    <string name="label_buscar">Buscar</string>
+</resources>
