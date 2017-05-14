@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/favoritos"
+        android:enabled="true"
+        android:icon="@drawable/favorito_contorno"
+        android:title="@string/label_favoritos"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/busqueda"
+        android:enabled="true"
+        android:icon="@drawable/busqueda"
+        android:title="@string/label_buscar"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/perfil"
+        android:enabled="true"
+        android:icon="@drawable/perfil_contorno"
+        android:title="@string/label_perfil"
+        app:showAsAction="ifRoom" />
+</menu>

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MyWatchlist</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="label_signin">Sign in</string>
+    <string name="label_signup">Sign up</string>
+    <string name="label_help">Need help?</string>
+    <string name="label_confirm">Verify password</string>
+    <string name="label_requerido">Field is required</string>
+    <string name="label_nocoincide">Password doesn\'t match</string>
+    <string name="label_error_email">Email has already been taken</string>
+    <string name="label_exito">Registered successfully</string>
+    <string name="label_error_session">Email/password doesn\'t exist</string>
+    <string name="label_pass_indicio">Password hint</string>
+    <string name="label_favoritos">Favorites</string>
+    <string name="label_buscar">Search</string>
+    <string name="label_perfil">Profile</string>
+    <string name="label_top_movies">Top movies</string>
+    <string name="label_top_series">Top series</string>
+    <string name="label_empty">Please add something</string>
+    <string name="label_cerrar">Sign out</string>
+    <string name="api_key" translatable="false">2390854842d2d4bdfa997a5243a437d3</string>
+    <string name="label_buscar_movies">Search movies</string>
+    <string name="label_buscar_series">Search series</string>
+    <string name="label_error_servicio">Service unavailable</string>
+    <string name="label_sin_resultados">We couldn\'t find anything!</string>
+    <string name="director">Director: \n%1$s</string>
+    <string name="label_already_fav">Already on favorites, would you like to remove it?</string>
+    <string name="label_fav_added">Added to favorites</string>
+    <string name="label_yes">Yes</string>
+    <string name="label_no">No</string>
+    <string name="label_remove_fav">Favorite has been removed</string>
+    <string name="label_recover">Recover password</string>
+    <string name="label_recover_message">To recover password fill the required data</string>
+    <string name="label_recover_button">Recover</string>
+    <string name="label_error_recuperar">Email/hint doesn\'t exist</string>
+</resources>

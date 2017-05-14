@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/titulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/label_favoritos"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/texto"
+        android:layout_below="@id/titulo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/label_already_fav"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/texto"
+        android:layout_alignStart="@id/texto"
+        android:layout_alignEnd="@id/texto"
+        android:layout_alignRight="@id/texto"
+        android:orientation="horizontal"
+        android:layout_below="@id/texto"
+        android:layout_marginTop="20dp"
+        android:paddingBottom="10dp"
+        android:gravity="center_horizontal"
+        android:weightSum="10">
+
+        <Button
+            android:id="@+id/yes"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/label_yes"
+            style="@style/Base.Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_weight="5"/>
+
+        <Button
+            android:id="@+id/no"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/label_no"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            style="@style/Base.Widget.AppCompat.Button.Borderless.Colored"
+            android:layout_weight="5"/>
+    </LinearLayout>
+
+</RelativeLayout>

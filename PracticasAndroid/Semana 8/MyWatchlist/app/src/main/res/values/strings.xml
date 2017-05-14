@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyWatchlist</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+    <string name="label_signin">Sign in</string>
+    <string name="label_signup">Sign up</string>
+    <string name="label_help">Need help?</string>
+    <string name="label_confirm">Verify password</string>
+    <string name="label_pass_indicio">Password hint</string>
+    <string name="label_requerido">This field is required</string>
+    <string name="label_nocoincide">Password doesn\'t match</string>
+    <string name="label_exito">Registered successfully</string>
+    <string name="label_error_email">Email has already been taken</string>
+    <string name="label_error_sesion">Email/password doesn\'t exist</string>
+    <string name="label_favoritos">Favorites</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_top_movies">Top movies</string>
+    <string name="label_top_series">Top series</string>
+    <string name="label_search_movies">Search movies</string>
+    <string name="label_search_series">Search series</string>
+    <string name="label_sin_resultados">We couldn\'t find anything!</string>
+    <string name="label_buscar">Search</string>
+    <string name="api_key" translatable="false">2390854842d2d4bdfa997a5243a437d3</string>
+</resources>

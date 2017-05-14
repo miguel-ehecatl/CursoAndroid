@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyWatchlist</string>
+    <string name="label_email">Correo</string>
+    <string name="label_password">Contraseña</string>
+    <string name="label_signin">Iniciar sesión</string>
+    <string name="label_signup">Registrarse</string>
+    <string name="label_help">¿Necesitas ayuda?</string>
+    <string name="label_confirm">Confirmar contraseña</string>
+    <string name="label_requerido">Campo requerido</string>
+    <string name="label_nocoincide">Contraseña no coincide</string>
+    <string name="label_error_email">El correo ya ha sido usado</string>
+    <string name="label_exito">Registrado exitosamente</string>
+    <string name="label_error_session">Correo/contraseña no existe</string>
+    <string name="label_pass_indicio">Indicio contraseña</string>
+    <string name="label_favoritos">Favoritos</string>
+    <string name="label_buscar">Buscar</string>
+    <string name="label_perfil">Perfil</string>
+    <string name="label_top_movies">Mejores peliculas</string>
+    <string name="label_top_series">Mejores series</string>
+    <string name="label_empty">Porfavor agrega algo</string>
+    <string name="label_cerrar">Cerrar sesión</string>
+    <string name="label_buscar_movies">Buscar películas</string>
+    <string name="label_buscar_series">Buscar series</string>
+    <string name="label_error_servicio">Servicio no disponible</string>
+    <string name="label_sin_resultados">No pudimos encontrar nada!</string>
+    <string name="director">Director: /n%1$s</string>
+    <string name="label_already_fav">Ya existe en favoritos, ¿te gustaría quitarlo?</string>
+    <string name="label_fav_added">Agregado a favoritos</string>
+    <string name="label_yes">Sí</string>
+    <string name="label_no">No</string>
+    <string name="label_remove_fav">Se ha quitado de favoritos</string>
+    <string name="label_recover">Recuperar contraseña</string>
+    <string name="label_recover_message">Para recuperar la contraseña llena los campos requeridos</string>
+    <string name="label_recover_button">Recuperar</string>
+    <string name="label_error_recuperar">Correo/indicio no existe</string>
+</resources>
